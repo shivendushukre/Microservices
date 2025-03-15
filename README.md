@@ -4,4 +4,4 @@
 
 ### Future tasks include securing microservices using Spring Security and third party Auth implementation.
 
-### Technology used: Springboot, Spring Cloud, Eureka Server, Feign Client, Spring JPA, MySQL.
+### Technology used: Springboot, Spring Cloud, Eureka Server, Feign Client, Spring JPA, MySQL, Postman.
